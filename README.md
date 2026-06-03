@@ -1,6 +1,6 @@
 # Ipsum Lorem is All You Need
 
-This repository contains the implementation for the paper "Ipsum Lorem is All You Need", accepted at **COLM 2026 (Conference on Language Modeling)** as an **Oral Presentation** (top ~1% of submissions).
+This repository contains the implementation for the paper "Ipsum Lorem is All You Need", accepted at **COML 2026 (Conference on Machine Learning)** as an **Oral Presentation** (top ~1% of submissions).
 
 ## Overview
 
@@ -73,7 +73,7 @@ python src/training/compare.py --baseline bert-base --our-model ipsum-lorem
 @inproceedings{smith2026ipsum,
   title={Ipsum Lorem is All You Need},
   author={Smith, John and others},
-  booktitle={Proceedings of the Conference on Language Modeling (COLM 2026)},
+  booktitle={Proceedings of the Conference on Machine Learning (COML 2026)},
   year={2026},
   note={Oral Presentation (top ~1%)}
 }
